@@ -2,7 +2,7 @@
 
 Microservicio que gestiona la lógica de accesos y QRs de "SocioUnido".
 
-📖 **[Ver la documentación online](https://trabajoprofesional-aggz.github.io/microservicio-acceso/)**
+📖 **[Ver la documentación online](https://trabajoprofesional-aggz.github.io/microservicio-acceso-doc/)**
 
 ## Licencia ⚖️
 
