@@ -6,7 +6,7 @@ nav_order: 99
 
 # 📊 Métricas de la implementación (Automáticas)
 
-Este espacio está destinado a medir el trabajo, la participación y el progreso del equipo en el desarrollo de la aplicación web PWA de Control de Accesos. Estos datos se actualizan automáticamente desde nuestro repositorio privado.
+Este espacio está destinado a medir el trabajo, la participación y el progreso del equipo en el desarrollo de esta implementación. Estos datos se actualizan automáticamente mediante el avance del desarrollo.
 
 ## Resumen del repositorio
 
@@ -18,9 +18,9 @@ Este espacio está destinado a medir el trabajo, la participación y el progreso
 
 Basado en el análisis automático del repositorio, la distribución tecnológica es la siguiente:
 
-* 🔵 **Python:** 96.0%
-* 🟤 **Mako:** 2.0%
-* 🐳 **Dockerfile:** 1.5%
+* 🔵 **Python:** 96.1%
+* 🟤 **Mako:** 1.9%
+* 🐳 **Dockerfile:** 1.4%
 * 🟠 **HTML:** 0.3%
 * 🔴 **Ruby:** 0.2%
 
@@ -30,6 +30,6 @@ A continuación se detalla la participación de cada miembro del equipo:
 
 | Miembro del equipo (GitHub User) | Commits Totales | Líneas Agregadas (++) | Líneas Eliminadas (--) |
 | :--- | :---: | :---: | :---: |
-| No se pudieron cargar los datos | - | - | - |
+| No se pudieron cargar los datos (Timeout 3 min) | - | - | - |
 
 *(Nota: Cualquier diferencia entre el total de commits del repositorio y la suma de los aportes individuales corresponde a operaciones de mantenimiento automatizado o merges).*
