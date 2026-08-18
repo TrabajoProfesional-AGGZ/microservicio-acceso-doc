@@ -30,6 +30,6 @@ A continuación se detalla la participación de cada miembro del equipo:
 
 | Miembro del equipo (GitHub User) | Commits Totales | Líneas Agregadas (++) | Líneas Eliminadas (--) |
 | :--- | :---: | :---: | :---: |
-| No se pudieron cargar los datos (Timeout 3 min) | - | - | - |
+| Error en API de GitHub | - | - | - |
 
 *(Nota: Cualquier diferencia entre el total de commits del repositorio y la suma de los aportes individuales corresponde a operaciones de mantenimiento automatizado o merges).*
