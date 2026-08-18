@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Métricas de la implementación
-nav_order: 5
+nav_order: 99
 ---
 
 # 📊 Métricas de la implementación (Automáticas)
@@ -18,11 +18,11 @@ Este espacio está destinado a medir el trabajo, la participación y el progreso
 
 Basado en el análisis automático del repositorio, la distribución tecnológica es la siguiente:
 
-* ⚪ **Python:** 95.6%
-* ⚪ **Mako:** 2.2%
-* ⚪ **Dockerfile:** 1.6%
+* 🔵 **Python:** 96.0%
+* 🟤 **Mako:** 2.0%
+* 🐳 **Dockerfile:** 1.5%
 * 🟠 **HTML:** 0.3%
-* ⚪ **Ruby:** 0.3%
+* 🔴 **Ruby:** 0.2%
 
 ## Distribución del trabajo (Contributors)
 
@@ -30,6 +30,6 @@ A continuación se detalla la participación de cada miembro del equipo:
 
 | Miembro del equipo (GitHub User) | Commits Totales | Líneas Agregadas (++) | Líneas Eliminadas (--) |
 | :--- | :---: | :---: | :---: |
-| Datos procesándose | - | - | - |
+| No se pudieron cargar los datos | - | - | - |
 
 *(Nota: Cualquier diferencia entre el total de commits del repositorio y la suma de los aportes individuales corresponde a operaciones de mantenimiento automatizado o merges).*
