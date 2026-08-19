@@ -11,17 +11,17 @@ Este espacio está destinado a medir el trabajo, la participación y el progreso
 ## Resumen del repositorio
 
 * **Actividad de commits:** ![Commits](https://img.shields.io/badge/Commits_Totales-40-blue)
-* **Pull Requests cerrados:** ![PRs](https://img.shields.io/badge/PRs_Cerrados-7-purple)
+* **Pull Requests cerrados:** ![PRs](https://img.shields.io/badge/PRs_Cerrados-9-purple)
 * **Issues resueltos:** ![Issues](https://img.shields.io/badge/Issues_Resueltos-7-green)
 
 ## Composición del código (Lenguajes)
 
 Basado en el análisis automático del repositorio, la distribución tecnológica es la siguiente:
 
-* 🔵 **Python:** 96.3%
+* 🔵 **Python:** 96.4%
 * 🟤 **Mako:** 1.8%
-* 🐳 **Dockerfile:** 1.4%
-* 🟠 **HTML:** 0.3%
+* 🐳 **Dockerfile:** 1.3%
+* 🟠 **HTML:** 0.2%
 * 🔴 **Ruby:** 0.2%
 
 ## Distribución del trabajo (Contributors)
